@@ -68,7 +68,7 @@ li {
   color: #05080C;
 }
 
-ul li:hover {
+li:hover {
   background-color: red;
 }
 
