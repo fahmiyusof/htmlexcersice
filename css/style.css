@@ -97,3 +97,11 @@ nav {
   color: #222222;
   text-align: center;
 }
+
+.animate_appear {
+  opacity: 0;
+  transition: opacity 1.5s ease-in-out;
+}
+.animate_appear:hover {
+  opacity: 1;
+}
