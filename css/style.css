@@ -68,6 +68,10 @@ li {
   color: #05080C;
 }
 
+ul li:hover {
+  background-color: red;
+}
+
 hr {
   border: none;
   border-top: 1px solid #222222;
