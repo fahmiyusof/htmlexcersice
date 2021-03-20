@@ -29,6 +29,8 @@ h1 {
   text-align: center;
   color: #030609;
   margin-top: 0;
+  font-style: BOLD;
+  text-shadow: 2px 2px 8px #FF0000;
 }
 
 h2 {
